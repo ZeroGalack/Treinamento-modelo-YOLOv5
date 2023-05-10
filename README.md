@@ -1,0 +1,1 @@
+# Treinamento-modelo-YOLOv5
